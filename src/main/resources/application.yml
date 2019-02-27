@@ -1,0 +1,4 @@
+okta:
+  oauth2:
+    client-id: {0oajg9e17qBgvKz0u0h7}
+    issuer: https://dev-914571.oktapreview.com/oauth2/default
